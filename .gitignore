@@ -20,3 +20,4 @@ build/java/bin/api-ms-win-core-localization-l1-2-0.dll
 build/java/bin/api-ms-win-core-memory-l1-1-0.dll
 build/java/bin/api-ms-win-core-namedpipe-l1-1-0.dll
 build/java/bin/api-ms-win-core-processenvironment-l1-1-0.dll
+compile.bat
