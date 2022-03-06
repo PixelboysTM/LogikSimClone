@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "Ypos": 10,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 563597696,
+          "lx": 25,
+          "type": 115,
+          "ly": 50
+        },
+        {
+          "connected": true,
+          "color": -52636,
+          "ID": 2119225216,
+          "lx": 25,
+          "type": 98,
+          "ly": 70
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1693093760,
+          "lx": 145,
+          "type": 115,
+          "ly": 50
+        },
+        {
+          "color": -52636,
+          "ID": 1006400576,
+          "lx": 145,
+          "type": 98,
+          "ly": 70
+        }
+      ],
+      "Xpos": 10,
+      "width": 150,
+      "ID": 2147483647,
+      "type": "UNDEFINED",
+      "height": 200
+    },
+    {
+      "Ypos": 20,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 634795392,
+          "lx": 236,
+          "type": 115,
+          "ly": 60
+        },
+        {
+          "connected": true,
+          "color": -52636,
+          "ID": 108337408,
+          "lx": 236,
+          "type": 98,
+          "ly": 80
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 794214016,
+          "lx": 356,
+          "type": 115,
+          "ly": 60
+        },
+        {
+          "color": -52636,
+          "ID": 1571512192,
+          "lx": 356,
+          "type": 98,
+          "ly": 80
+        }
+      ],
+      "Xpos": 221,
+      "width": 150,
+      "ID": 1488608128,
+      "type": "UNDEFINED",
+      "height": 200
+    }
+  ],
+  "connections": [
+    {
+      "InputHID": 634795392,
+      "OutputID": 2147483647,
+      "InputID": 1488608128,
+      "ID": 91403728,
+      "OutputHID": 1693093760
+    },
+    {
+      "InputHID": 108337408,
+      "OutputID": 2147483647,
+      "InputID": 1488608128,
+      "ID": 997203584,
+      "OutputHID": 1006400576
+    },
+    {
+      "InputHID": 563597696,
+      "OutputID": 1488608128,
+      "InputID": 2147483647,
+      "ID": 1690059904,
+      "OutputHID": 794214016
+    },
+    {
+      "InputHID": 2119225216,
+      "OutputID": 1488608128,
+      "InputID": 2147483647,
+      "ID": 658327296,
+      "OutputHID": 1571512192
+    }
+  ]
+}

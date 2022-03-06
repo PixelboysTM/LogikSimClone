@@ -1,0 +1,1875 @@
+{
+  "offsetX": 19,
+  "offsetY": 51,
+  "nodes": [
+    {
+      "Ypos": -541,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 2045625344,
+        "lx": -439.9197998046875,
+        "type": 119,
+        "ly": -470.9397888183594
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -483,
+      "width": 80,
+      "ID": 1062321664,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -439,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 677925312,
+          "lx": -667.3997192382812,
+          "type": 119,
+          "ly": -375.0598449707031
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 959145984,
+          "lx": -667.3997192382812,
+          "type": 119,
+          "ly": -356.2598571777344
+        }
+      ],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 852549056,
+        "lx": -620,
+        "type": 119,
+        "ly": -375.0598449707031
+      }],
+      "Xpos": -725,
+      "width": 80,
+      "ID": 1017963840,
+      "type": "And_Node",
+      "height": 80
+    },
+    {
+      "Ypos": -548,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2146387072,
+        "lx": -734,
+        "type": 119,
+        "ly": -477.519775390625
+      }],
+      "Xpos": -846,
+      "width": 80,
+      "ID": 2096784128,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -469,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 264745968,
+        "lx": -733,
+        "type": 119,
+        "ly": -403.25982666015625
+      }],
+      "Xpos": -845,
+      "width": 80,
+      "ID": 1444655616,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -391,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1573312256,
+        "lx": -731,
+        "type": 119,
+        "ly": -329.9398498535156
+      }],
+      "Xpos": -843,
+      "width": 80,
+      "ID": 1502466176,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -542,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 372093920,
+          "lx": -558.3597412109375,
+          "type": 119,
+          "ly": -471.8797912597656
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 829601280,
+          "lx": -558.3597412109375,
+          "type": 119,
+          "ly": -453.0798034667969
+        }
+      ],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1598155520,
+        "lx": -511,
+        "type": 119,
+        "ly": -471.8797912597656
+      }],
+      "Xpos": -609,
+      "width": 80,
+      "ID": 1300543488,
+      "type": "Or_Node",
+      "height": 80
+    },
+    {
+      "Ypos": -631,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 728291264,
+          "lx": -559.2997436523438,
+          "type": 119,
+          "ly": -555.5397338867188
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 736778944,
+          "lx": -559.2997436523438,
+          "type": 119,
+          "ly": -536.73974609375
+        }
+      ],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1384490752,
+        "lx": -512,
+        "type": 119,
+        "ly": -555.5397338867188
+      }],
+      "Xpos": -610,
+      "width": 80,
+      "ID": 827538944,
+      "type": "XOr_Node",
+      "height": 80
+    },
+    {
+      "Ypos": -615,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 165653248,
+        "lx": -440.85980224609375,
+        "type": 119,
+        "ly": -540.499755859375
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -484,
+      "width": 80,
+      "ID": 1510739328,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -548,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1962500736,
+        "lx": -696.5397338867188,
+        "type": 119,
+        "ly": -477.519775390625
+      }],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2122932608,
+        "lx": -677,
+        "type": 119,
+        "ly": -477.519775390625
+      }],
+      "Xpos": -756,
+      "width": 50,
+      "ID": 308102368,
+      "type": "Not_Node",
+      "height": 55
+    },
+    {
+      "Ypos": -244,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 816440576,
+          "lx": -789.5996704101562,
+          "type": 119,
+          "ly": -191.75991821289062
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1003766016,
+          "lx": -789.5996704101562,
+          "type": 119,
+          "ly": -172.95993041992188
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1902854400,
+          "lx": -789.5996704101562,
+          "type": 119,
+          "ly": -154.15994262695312
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 955152512,
+          "lx": -728,
+          "type": 119,
+          "ly": -191.75991821289062
+        },
+        {
+          "color": -10197916,
+          "ID": 211995856,
+          "lx": -728,
+          "type": 119,
+          "ly": -172.95993041992188
+        }
+      ],
+      "Xpos": -855,
+      "width": 95,
+      "ID": 864994496,
+      "type": "FullAdder_Node",
+      "height": 90
+    },
+    {
+      "Ypos": -262,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 725251392,
+        "lx": -896,
+        "type": 119,
+        "ly": -208.67990112304688
+      }],
+      "Xpos": -1019,
+      "width": 80,
+      "ID": 1981997440,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -189,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 967597952,
+        "lx": -895,
+        "type": 119,
+        "ly": -140.0599365234375
+      }],
+      "Xpos": -1018,
+      "width": 80,
+      "ID": 1181358080,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -117,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1355087744,
+        "lx": -897,
+        "type": 119,
+        "ly": -72.37996673583984
+      }],
+      "Xpos": -1020,
+      "width": 80,
+      "ID": 357526528,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -234,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 37932408,
+        "lx": -526.3997802734375,
+        "type": 119,
+        "ly": -182.35992431640625
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -575,
+      "width": 80,
+      "ID": 1189142400,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -167,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1663118592,
+        "lx": -520.759765625,
+        "type": 119,
+        "ly": -119.37995147705078
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -569,
+      "width": 80,
+      "ID": 1224219776,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -376,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 689446912,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": -315.8398742675781
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 414240352,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": -297.0398864746094
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1025015104,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": -278.2398986816406
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1289886208,
+          "lx": -126,
+          "type": 119,
+          "ly": -315.8398742675781
+        },
+        {
+          "color": -10197916,
+          "ID": 345247968,
+          "lx": -126,
+          "type": 119,
+          "ly": -297.0398864746094
+        }
+      ],
+      "Xpos": -215,
+      "width": 95,
+      "ID": 175029056,
+      "type": "FlipFlop_Node",
+      "height": 90
+    },
+    {
+      "Ypos": -394,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2044379648,
+        "lx": -326,
+        "type": 119,
+        "ly": -332.7598571777344
+      }],
+      "Xpos": -412,
+      "width": 80,
+      "ID": 89913616,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -317,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1223200512,
+        "lx": -321,
+        "type": 119,
+        "ly": -260.3798828125
+      }],
+      "Xpos": -407,
+      "width": 80,
+      "ID": 49602992,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -245,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1174235264,
+        "lx": -323,
+        "type": 119,
+        "ly": -192.69992065429688
+      }],
+      "Xpos": -409,
+      "width": 80,
+      "ID": 30571232,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -405,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1723635200,
+        "lx": -36.65998458862305,
+        "type": 119,
+        "ly": -343.099853515625
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -54,
+      "width": 80,
+      "ID": 1273399552,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -344,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 941699712,
+        "lx": -31.01998519897461,
+        "type": 119,
+        "ly": -285.7598876953125
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -48,
+      "width": 80,
+      "ID": 1203781376,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 95,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 115340952,
+        "lx": -253,
+        "type": 119,
+        "ly": 126.89994049072266
+      }],
+      "Xpos": -335,
+      "width": 80,
+      "ID": 2147483647,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 162,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 234413152,
+        "lx": -253,
+        "type": 119,
+        "ly": 189.87991333007812
+      }],
+      "Xpos": -335,
+      "width": 80,
+      "ID": 2066832768,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 228,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1541250944,
+        "lx": -254,
+        "type": 119,
+        "ly": 251.91989135742188
+      }],
+      "Xpos": -336,
+      "width": 80,
+      "ID": 1211148416,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 135,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 411635616,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": 164.4999237060547
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1960074880,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": 183.29991149902344
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1262086656,
+          "lx": -187.9999237060547,
+          "type": 119,
+          "ly": 202.0998992919922
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1008659584,
+          "lx": -126,
+          "type": 119,
+          "ly": 164.4999237060547
+        },
+        {
+          "color": -1,
+          "ID": 1178181120,
+          "lx": -126,
+          "type": 119,
+          "ly": 183.29991149902344
+        },
+        {
+          "color": -1,
+          "ID": 314283360,
+          "lx": -126,
+          "type": 119,
+          "ly": 202.0998992919922
+        },
+        {
+          "color": -1,
+          "ID": 290209056,
+          "lx": -126,
+          "type": 119,
+          "ly": 220.89988708496094
+        },
+        {
+          "color": -1,
+          "ID": 1351946624,
+          "lx": -126,
+          "type": 119,
+          "ly": 239.6998748779297
+        },
+        {
+          "color": -1,
+          "ID": 1608639872,
+          "lx": -126,
+          "type": 119,
+          "ly": 258.4998779296875
+        },
+        {
+          "color": -1,
+          "ID": 2133584000,
+          "lx": -126,
+          "type": 119,
+          "ly": 277.29986572265625
+        },
+        {
+          "color": -1,
+          "ID": 744503744,
+          "lx": -126,
+          "type": 119,
+          "ly": 296.099853515625
+        }
+      ],
+      "Xpos": -215,
+      "width": 95,
+      "ID": 979196992,
+      "type": "Decoder_Node",
+      "height": 195
+    },
+    {
+      "Ypos": 53,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1041513664,
+        "lx": -18.799991607666016,
+        "type": 119,
+        "ly": 87.41996002197266
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -35,
+      "width": 80,
+      "ID": 1846230016,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 120,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1087152896,
+        "lx": -17.85999298095703,
+        "type": 119,
+        "ly": 150.39993286132812
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -34,
+      "width": 80,
+      "ID": 1191216640,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 187,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 587731584,
+        "lx": -16.91999053955078,
+        "type": 119,
+        "ly": 213.37991333007812
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -33,
+      "width": 80,
+      "ID": 747758144,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 257,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1011067584,
+        "lx": -13.159993171691895,
+        "type": 119,
+        "ly": 279.17987060546875
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -29,
+      "width": 80,
+      "ID": 1585316608,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 399,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 644391744,
+        "lx": -9.399994850158691,
+        "type": 119,
+        "ly": 412.6598205566406
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -25,
+      "width": 80,
+      "ID": 1182854144,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 468,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 553244352,
+        "lx": -7.519997596740723,
+        "type": 119,
+        "ly": 477.519775390625
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -23,
+      "width": 80,
+      "ID": 1667553152,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -27,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 792455680,
+        "lx": -20.679988861083984,
+        "type": 119,
+        "ly": 12.219993591308594
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -37,
+      "width": 80,
+      "ID": 1458775936,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 329,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1924306176,
+        "lx": -12.21999454498291,
+        "type": 119,
+        "ly": 346.8598327636719
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -28,
+      "width": 80,
+      "ID": 239831216,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -12,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 145876416,
+          "lx": -845.0596313476562,
+          "type": 119,
+          "ly": 26.319988250732422
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1336801024,
+          "lx": -845.0596313476562,
+          "type": 119,
+          "ly": 45.11997985839844
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 2122014720,
+          "lx": -783,
+          "type": 119,
+          "ly": 26.319988250732422
+        },
+        {
+          "color": -10197916,
+          "ID": 807648896,
+          "lx": -783,
+          "type": 119,
+          "ly": 45.11997985839844
+        }
+      ],
+      "Xpos": -914,
+      "width": 95,
+      "ID": 70333488,
+      "type": "HalfAdder_Node",
+      "height": 80
+    },
+    {
+      "Ypos": -11,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1098859264,
+        "lx": -904,
+        "type": 119,
+        "ly": 27.259986877441406
+      }],
+      "Xpos": -1027,
+      "width": 80,
+      "ID": 100606688,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 68,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1787728000,
+        "lx": -906,
+        "type": 119,
+        "ly": 101.51995849609375
+      }],
+      "Xpos": -1029,
+      "width": 80,
+      "ID": 1627021952,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": -24,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 928676096,
+        "lx": -699.3596801757812,
+        "type": 119,
+        "ly": 15.039993286132812
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -759,
+      "width": 80,
+      "ID": 100713976,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 49,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1863747840,
+        "lx": -697.479736328125,
+        "type": 119,
+        "ly": 83.65995788574219
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -757,
+      "width": 80,
+      "ID": 123679640,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 402,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1350194176,
+          "lx": -458.71978759765625,
+          "type": 119,
+          "ly": 415.47979736328125
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 637626624,
+          "lx": -458.71978759765625,
+          "type": 119,
+          "ly": 434.27978515625
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 11110316,
+          "lx": -458.71978759765625,
+          "type": 119,
+          "ly": 453.07977294921875
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 283038624,
+          "lx": -458.71978759765625,
+          "type": 119,
+          "ly": 471.8797607421875
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1177322880,
+          "lx": -397,
+          "type": 119,
+          "ly": 415.47979736328125
+        },
+        {
+          "color": -1,
+          "ID": 812959680,
+          "lx": -397,
+          "type": 119,
+          "ly": 434.27978515625
+        },
+        {
+          "color": -1,
+          "ID": 1498311680,
+          "lx": -397,
+          "type": 119,
+          "ly": 453.07977294921875
+        },
+        {
+          "color": -1,
+          "ID": 1673185792,
+          "lx": -397,
+          "type": 119,
+          "ly": 471.8797607421875
+        },
+        {
+          "color": -1,
+          "ID": 294053536,
+          "lx": -397,
+          "type": 119,
+          "ly": 490.67974853515625
+        },
+        {
+          "color": -1,
+          "ID": 1610928768,
+          "lx": -397,
+          "type": 119,
+          "ly": 509.479736328125
+        },
+        {
+          "color": -1,
+          "ID": 1409119360,
+          "lx": -397,
+          "type": 119,
+          "ly": 528.2797241210938
+        },
+        {
+          "color": -1,
+          "ID": 1058548672,
+          "lx": -397,
+          "type": 119,
+          "ly": 547.0797119140625
+        }
+      ],
+      "Xpos": -503,
+      "width": 95,
+      "ID": 760185728,
+      "type": "DecoderTakt_Node",
+      "height": 195
+    },
+    {
+      "Ypos": 403,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1793819648,
+        "lx": -238.75990295410156,
+        "type": 119,
+        "ly": 416.4197998046875
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -269,
+      "width": 80,
+      "ID": 465220192,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 473,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 672250944,
+        "lx": -239.69989013671875,
+        "type": 119,
+        "ly": 482.21978759765625
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -270,
+      "width": 80,
+      "ID": 1365733120,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 541,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 316238400,
+        "lx": -238.75990295410156,
+        "type": 119,
+        "ly": 546.1397705078125
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -269,
+      "width": 80,
+      "ID": 330889216,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 615,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1896351488,
+        "lx": -237.8199005126953,
+        "type": 119,
+        "ly": 615.69970703125
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -268,
+      "width": 80,
+      "ID": 1289033856,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 690,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1927518848,
+        "lx": -235.9398956298828,
+        "type": 119,
+        "ly": 686.19970703125
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -266,
+      "width": 80,
+      "ID": 588625664,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 761,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1152586880,
+        "lx": -235.9398956298828,
+        "type": 119,
+        "ly": 752.9396362304688
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -266,
+      "width": 80,
+      "ID": 1484775552,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 829,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1252144512,
+        "lx": -234.99989318847656,
+        "type": 119,
+        "ly": 816.859619140625
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -265,
+      "width": 80,
+      "ID": 833755712,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 896,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 14591227,
+        "lx": -234.0598907470703,
+        "type": 119,
+        "ly": 879.839599609375
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": -264,
+      "width": 80,
+      "ID": 91433528,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 371,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1860332416,
+        "lx": -622,
+        "type": 119,
+        "ly": 386.3398132324219
+      }],
+      "Xpos": -727,
+      "width": 80,
+      "ID": 1363915136,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 433,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 804334848,
+        "lx": -621,
+        "type": 119,
+        "ly": 444.6197814941406
+      }],
+      "Xpos": -726,
+      "width": 80,
+      "ID": 1954877312,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 496,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1669126656,
+        "lx": -622,
+        "type": 119,
+        "ly": 503.83978271484375
+      }],
+      "Xpos": -727,
+      "width": 80,
+      "ID": 1168721920,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 561,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 21046410,
+        "lx": -622,
+        "type": 119,
+        "ly": 564.9397583007812
+      }],
+      "Xpos": -727,
+      "width": 80,
+      "ID": 1884651136,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 807,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1279062016,
+        "lx": 72.37996673583984,
+        "type": 119,
+        "ly": 796.1796264648438
+      }],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 816673024,
+        "lx": 100,
+        "type": 119,
+        "ly": 796.1796264648438
+      }],
+      "Xpos": 62,
+      "width": 60,
+      "ID": 1704835840,
+      "type": "Delay_Node",
+      "height": 55
+    },
+    {
+      "Ypos": 807,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2140706688,
+        "lx": 31,
+        "type": 119,
+        "ly": 796.1796264648438
+      }],
+      "Xpos": -31,
+      "width": 80,
+      "ID": 2086722816,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 807,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 2129542784,
+        "lx": 141.93994140625,
+        "type": 119,
+        "ly": 796.1796264648438
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": 136,
+      "width": 80,
+      "ID": 238239776,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 623,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 479096160,
+        "lx": 122.19994354248047,
+        "type": 119,
+        "ly": 623.2197265625
+      }],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1827853824,
+        "lx": 150,
+        "type": 119,
+        "ly": 623.2197265625
+      }],
+      "Xpos": 115,
+      "width": 60,
+      "ID": 450384608,
+      "type": "Clock_Node",
+      "height": 55
+    },
+    {
+      "Ypos": 624,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2021020672,
+        "lx": 80,
+        "type": 119,
+        "ly": 624.1597290039062
+      }],
+      "Xpos": 21,
+      "width": 80,
+      "ID": 1474523520,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 624,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 532966848,
+        "lx": 187.99990844726562,
+        "type": 119,
+        "ly": 624.1597290039062
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": 185,
+      "width": 80,
+      "ID": 564831488,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 437,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 370293856,
+        "lx": 177,
+        "type": 119,
+        "ly": 448.3797912597656
+      }],
+      "Xpos": 124,
+      "width": 80,
+      "ID": 1255935360,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 306,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 2059721856,
+        "lx": 174,
+        "type": 119,
+        "ly": 325.2398376464844
+      }],
+      "Xpos": 121,
+      "width": 80,
+      "ID": 22572288,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 371,
+      "InputHandlePoints": [],
+      "OutputHandlePoints": [{
+        "color": -1,
+        "ID": 1821541760,
+        "lx": 177,
+        "type": 119,
+        "ly": 386.3398132324219
+      }],
+      "Xpos": 124,
+      "width": 80,
+      "ID": 1497310336,
+      "type": "Switch_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 348,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 1603805952,
+        "lx": 671.15966796875,
+        "type": 119,
+        "ly": 364.7198181152344
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": 699,
+      "width": 80,
+      "ID": 230675952,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 419,
+      "InputHandlePoints": [{
+        "connected": true,
+        "color": -1,
+        "ID": 976914176,
+        "lx": 672.0996704101562,
+        "type": 119,
+        "ly": 431.4598083496094
+      }],
+      "OutputHandlePoints": [],
+      "Xpos": 700,
+      "width": 80,
+      "ID": 1919794048,
+      "type": "Lamp_Node",
+      "height": 60
+    },
+    {
+      "Ypos": 351,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1851153280,
+          "lx": 233.11988830566406,
+          "type": 119,
+          "ly": 367.5398254394531
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1397246080,
+          "lx": 233.11988830566406,
+          "type": 119,
+          "ly": 386.3398132324219
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1673203712,
+          "lx": 233.11988830566406,
+          "type": 119,
+          "ly": 405.1398010253906
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 897783040,
+          "lx": 392,
+          "type": 119,
+          "ly": 367.5398254394531
+        },
+        {
+          "color": -1,
+          "ID": 1495957376,
+          "lx": 392,
+          "type": 119,
+          "ly": 386.3398132324219
+        },
+        {
+          "color": -1,
+          "ID": 135546928,
+          "lx": 392,
+          "type": 119,
+          "ly": 405.1398010253906
+        }
+      ],
+      "Xpos": 233,
+      "width": 200,
+      "ID": 2104860544,
+      "type": "ShiftRegister_Node",
+      "height": 95
+    },
+    {
+      "Ypos": 351,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1758354816,
+          "lx": 435.2198181152344,
+          "type": 119,
+          "ly": 367.5398254394531
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1259618944,
+          "lx": 435.2198181152344,
+          "type": 119,
+          "ly": 386.3398132324219
+        },
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 1305258240,
+          "lx": 435.2198181152344,
+          "type": 119,
+          "ly": 405.1398010253906
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1694387200,
+          "lx": 595,
+          "type": 119,
+          "ly": 367.5398254394531
+        },
+        {
+          "color": -1,
+          "ID": 1292020096,
+          "lx": 595,
+          "type": 119,
+          "ly": 386.3398132324219
+        },
+        {
+          "color": -1,
+          "ID": 648343552,
+          "lx": 595,
+          "type": 119,
+          "ly": 405.1398010253906
+        }
+      ],
+      "Xpos": 448,
+      "width": 200,
+      "ID": 1168018560,
+      "type": "ShiftRegister_Node",
+      "height": 95
+    }
+  ],
+  "zoom": 0.9399995803833008,
+  "connections": [
+    {
+      "InputHID": 677925312,
+      "OutputID": 1444655616,
+      "InputID": 1017963840,
+      "ID": 1365584128,
+      "OutputHID": 264745968
+    },
+    {
+      "InputHID": 959145984,
+      "OutputID": 1502466176,
+      "InputID": 1017963840,
+      "ID": 2084672384,
+      "OutputHID": 1573312256
+    },
+    {
+      "InputHID": 2045625344,
+      "OutputID": 1300543488,
+      "InputID": 1062321664,
+      "ID": 162869712,
+      "OutputHID": 1598155520
+    },
+    {
+      "InputHID": 829601280,
+      "OutputID": 1017963840,
+      "InputID": 1300543488,
+      "ID": 900769216,
+      "OutputHID": 852549056
+    },
+    {
+      "InputHID": 736778944,
+      "OutputID": 1017963840,
+      "InputID": 827538944,
+      "ID": 626265984,
+      "OutputHID": 852549056
+    },
+    {
+      "InputHID": 165653248,
+      "OutputID": 827538944,
+      "InputID": 1510739328,
+      "ID": 471204512,
+      "OutputHID": 1384490752
+    },
+    {
+      "InputHID": 1962500736,
+      "OutputID": 2096784128,
+      "InputID": 308102368,
+      "ID": 344121440,
+      "OutputHID": 2146387072
+    },
+    {
+      "InputHID": 728291264,
+      "OutputID": 308102368,
+      "InputID": 827538944,
+      "ID": 865936256,
+      "OutputHID": 2122932608
+    },
+    {
+      "InputHID": 372093920,
+      "OutputID": 308102368,
+      "InputID": 1300543488,
+      "ID": 1919066880,
+      "OutputHID": 2122932608
+    },
+    {
+      "InputHID": 816440576,
+      "OutputID": 1981997440,
+      "InputID": 864994496,
+      "ID": 1484662272,
+      "OutputHID": 725251392
+    },
+    {
+      "InputHID": 1003766016,
+      "OutputID": 1181358080,
+      "InputID": 864994496,
+      "ID": 718551872,
+      "OutputHID": 967597952
+    },
+    {
+      "InputHID": 1902854400,
+      "OutputID": 357526528,
+      "InputID": 864994496,
+      "ID": 1929837440,
+      "OutputHID": 1355087744
+    },
+    {
+      "InputHID": 37932408,
+      "OutputID": 864994496,
+      "InputID": 1189142400,
+      "ID": 2061921280,
+      "OutputHID": 955152512
+    },
+    {
+      "InputHID": 1663118592,
+      "OutputID": 864994496,
+      "InputID": 1224219776,
+      "ID": 1620775424,
+      "OutputHID": 211995856
+    },
+    {
+      "InputHID": 689446912,
+      "OutputID": 89913616,
+      "InputID": 175029056,
+      "ID": 5894909,
+      "OutputHID": 2044379648
+    },
+    {
+      "InputHID": 414240352,
+      "OutputID": 49602992,
+      "InputID": 175029056,
+      "ID": 546121600,
+      "OutputHID": 1223200512
+    },
+    {
+      "InputHID": 1025015104,
+      "OutputID": 30571232,
+      "InputID": 175029056,
+      "ID": 901508288,
+      "OutputHID": 1174235264
+    },
+    {
+      "InputHID": 1723635200,
+      "OutputID": 175029056,
+      "InputID": 1273399552,
+      "ID": 64557800,
+      "OutputHID": 1289886208
+    },
+    {
+      "InputHID": 941699712,
+      "OutputID": 175029056,
+      "InputID": 1203781376,
+      "ID": 2126824832,
+      "OutputHID": 345247968
+    },
+    {
+      "InputHID": 411635616,
+      "OutputID": 2147483647,
+      "InputID": 979196992,
+      "ID": 538891520,
+      "OutputHID": 115340952
+    },
+    {
+      "InputHID": 1960074880,
+      "OutputID": 2066832768,
+      "InputID": 979196992,
+      "ID": 1111239168,
+      "OutputHID": 234413152
+    },
+    {
+      "InputHID": 1262086656,
+      "OutputID": 1211148416,
+      "InputID": 979196992,
+      "ID": 325232736,
+      "OutputHID": 1541250944
+    },
+    {
+      "InputHID": 792455680,
+      "OutputID": 979196992,
+      "InputID": 1458775936,
+      "ID": 2020454400,
+      "OutputHID": 1008659584
+    },
+    {
+      "InputHID": 1041513664,
+      "OutputID": 979196992,
+      "InputID": 1846230016,
+      "ID": 1170045056,
+      "OutputHID": 1178181120
+    },
+    {
+      "InputHID": 1087152896,
+      "OutputID": 979196992,
+      "InputID": 1191216640,
+      "ID": 1340502528,
+      "OutputHID": 314283360
+    },
+    {
+      "InputHID": 587731584,
+      "OutputID": 979196992,
+      "InputID": 747758144,
+      "ID": 23752460,
+      "OutputHID": 290209056
+    },
+    {
+      "InputHID": 1011067584,
+      "OutputID": 979196992,
+      "InputID": 1585316608,
+      "ID": 1103156736,
+      "OutputHID": 1351946624
+    },
+    {
+      "InputHID": 1924306176,
+      "OutputID": 979196992,
+      "InputID": 239831216,
+      "ID": 2014464128,
+      "OutputHID": 1608639872
+    },
+    {
+      "InputHID": 644391744,
+      "OutputID": 979196992,
+      "InputID": 1182854144,
+      "ID": 790339712,
+      "OutputHID": 2133584000
+    },
+    {
+      "InputHID": 553244352,
+      "OutputID": 979196992,
+      "InputID": 1667553152,
+      "ID": 1713269888,
+      "OutputHID": 744503744
+    },
+    {
+      "InputHID": 145876416,
+      "OutputID": 100606688,
+      "InputID": 70333488,
+      "ID": 369334208,
+      "OutputHID": 1098859264
+    },
+    {
+      "InputHID": 1336801024,
+      "OutputID": 1627021952,
+      "InputID": 70333488,
+      "ID": 1126134400,
+      "OutputHID": 1787728000
+    },
+    {
+      "InputHID": 928676096,
+      "OutputID": 70333488,
+      "InputID": 100713976,
+      "ID": 2060949760,
+      "OutputHID": 2122014720
+    },
+    {
+      "InputHID": 1863747840,
+      "OutputID": 70333488,
+      "InputID": 123679640,
+      "ID": 705212352,
+      "OutputHID": 807648896
+    },
+    {
+      "InputHID": 1793819648,
+      "OutputID": 760185728,
+      "InputID": 465220192,
+      "ID": 2096223744,
+      "OutputHID": 1177322880
+    },
+    {
+      "InputHID": 672250944,
+      "OutputID": 760185728,
+      "InputID": 1365733120,
+      "ID": 1428192768,
+      "OutputHID": 812959680
+    },
+    {
+      "InputHID": 316238400,
+      "OutputID": 760185728,
+      "InputID": 330889216,
+      "ID": 1695203712,
+      "OutputHID": 1498311680
+    },
+    {
+      "InputHID": 1896351488,
+      "OutputID": 760185728,
+      "InputID": 1289033856,
+      "ID": 851350976,
+      "OutputHID": 1673185792
+    },
+    {
+      "InputHID": 1927518848,
+      "OutputID": 760185728,
+      "InputID": 588625664,
+      "ID": 860393024,
+      "OutputHID": 294053536
+    },
+    {
+      "InputHID": 1152586880,
+      "OutputID": 760185728,
+      "InputID": 1484775552,
+      "ID": 1753222912,
+      "OutputHID": 1610928768
+    },
+    {
+      "InputHID": 1252144512,
+      "OutputID": 760185728,
+      "InputID": 833755712,
+      "ID": 301253792,
+      "OutputHID": 1409119360
+    },
+    {
+      "InputHID": 14591227,
+      "OutputID": 760185728,
+      "InputID": 91433528,
+      "ID": 535929184,
+      "OutputHID": 1058548672
+    },
+    {
+      "InputHID": 1350194176,
+      "OutputID": 1363915136,
+      "InputID": 760185728,
+      "ID": 101310024,
+      "OutputHID": 1860332416
+    },
+    {
+      "InputHID": 637626624,
+      "OutputID": 1954877312,
+      "InputID": 760185728,
+      "ID": 1611143296,
+      "OutputHID": 804334848
+    },
+    {
+      "InputHID": 11110316,
+      "OutputID": 1168721920,
+      "InputID": 760185728,
+      "ID": 1605957760,
+      "OutputHID": 1669126656
+    },
+    {
+      "InputHID": 283038624,
+      "OutputID": 1884651136,
+      "InputID": 760185728,
+      "ID": 388246752,
+      "OutputHID": 21046410
+    },
+    {
+      "InputHID": 1279062016,
+      "OutputID": 2086722816,
+      "InputID": 1704835840,
+      "ID": 958710912,
+      "OutputHID": 2140706688
+    },
+    {
+      "InputHID": 2129542784,
+      "OutputID": 1704835840,
+      "InputID": 238239776,
+      "ID": 1174962560,
+      "OutputHID": 816673024
+    },
+    {
+      "InputHID": 479096160,
+      "OutputID": 1474523520,
+      "InputID": 450384608,
+      "ID": 602400320,
+      "OutputHID": 2021020672
+    },
+    {
+      "InputHID": 532966848,
+      "OutputID": 450384608,
+      "InputID": 564831488,
+      "ID": 1856607104,
+      "OutputHID": 1827853824
+    },
+    {
+      "InputHID": 1851153280,
+      "OutputID": 22572288,
+      "InputID": 2104860544,
+      "ID": 597023936,
+      "OutputHID": 2059721856
+    },
+    {
+      "InputHID": 1397246080,
+      "OutputID": 1497310336,
+      "InputID": 2104860544,
+      "ID": 1508814080,
+      "OutputHID": 1821541760
+    },
+    {
+      "InputHID": 1673203712,
+      "OutputID": 1255935360,
+      "InputID": 2104860544,
+      "ID": 89263920,
+      "OutputHID": 370293856
+    },
+    {
+      "InputHID": 1758354816,
+      "OutputID": 2104860544,
+      "InputID": 1168018560,
+      "ID": 851356992,
+      "OutputHID": 897783040
+    },
+    {
+      "InputHID": 1259618944,
+      "OutputID": 2104860544,
+      "InputID": 1168018560,
+      "ID": 2060013952,
+      "OutputHID": 1495957376
+    },
+    {
+      "InputHID": 1305258240,
+      "OutputID": 2104860544,
+      "InputID": 1168018560,
+      "ID": 1783138432,
+      "OutputHID": 135546928
+    },
+    {
+      "InputHID": 1603805952,
+      "OutputID": 1168018560,
+      "InputID": 230675952,
+      "ID": 1697248128,
+      "OutputHID": 1694387200
+    },
+    {
+      "InputHID": 976914176,
+      "OutputID": 1168018560,
+      "InputID": 1919794048,
+      "ID": 158172864,
+      "OutputHID": 648343552
+    }
+  ]
+}

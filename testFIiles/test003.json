@@ -1,0 +1,109 @@
+{"nodes": [
+  {
+    "Ypos": 65,
+    "InputHandlePoints": [
+      {
+        "connected": true,
+        "color": -1,
+        "lx": 33,
+        "type": 115,
+        "ly": 105
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 33,
+        "type": 98,
+        "ly": 125
+      }
+    ],
+    "Xpos": 18,
+    "width": 150,
+    "type": "UNDEFINED",
+    "height": 200
+  },
+  {
+    "Ypos": 10,
+    "InputHandlePoints": [
+      {
+        "connected": true,
+        "color": -1,
+        "lx": 202,
+        "type": 115,
+        "ly": 50
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 202,
+        "type": 98,
+        "ly": 70
+      }
+    ],
+    "Xpos": 187,
+    "width": 150,
+    "type": "UNDEFINED",
+    "height": 200
+  },
+  {
+    "Ypos": 308,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "lx": 329,
+        "type": 115,
+        "ly": 348
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 329,
+        "type": 98,
+        "ly": 368
+      },
+      {
+        "connected": false,
+        "color": -13435036,
+        "lx": 329,
+        "type": 103,
+        "ly": 388
+      }
+    ],
+    "Xpos": 314,
+    "width": 150,
+    "type": "Basic_Node",
+    "height": 200
+  },
+  {
+    "Ypos": 421,
+    "InputHandlePoints": [],
+    "Xpos": 624,
+    "width": 50,
+    "type": "Start_Node",
+    "height": 60
+  },
+  {
+    "Ypos": 355,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "lx": 824,
+        "type": 115,
+        "ly": 395
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 824,
+        "type": 98,
+        "ly": 415
+      }
+    ],
+    "Xpos": 809,
+    "width": 125,
+    "type": "Pass_Node",
+    "height": 100
+  }
+]}

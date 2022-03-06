@@ -1,0 +1,56 @@
+{
+  "offsetX": 0,
+  "offsetY": 0,
+  "nodes": [{
+    "Ypos": 180,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "ID": 1045268736,
+        "lx": 643,
+        "type": 115,
+        "ly": 220
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "ID": 734895424,
+        "lx": 643,
+        "type": 98,
+        "ly": 240
+      },
+      {
+        "connected": false,
+        "color": -13435036,
+        "ID": 1444601984,
+        "lx": 643,
+        "type": 103,
+        "ly": 260
+      }
+    ],
+    "OutputHandlePoints": [
+      {
+        "color": -1,
+        "ID": 1185095296,
+        "lx": 763,
+        "type": 115,
+        "ly": 220
+      },
+      {
+        "color": -13435036,
+        "ID": 1712900352,
+        "lx": 763,
+        "type": 103,
+        "ly": 240
+      }
+    ],
+    "Xpos": 628,
+    "width": 150,
+    "ID": 666385856,
+    "type": "Basic_Node",
+    "height": 200
+  }],
+  "zoom": 1,
+  "connections": []
+}

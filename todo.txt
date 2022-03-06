@@ -1,0 +1,17 @@
+TODO:
+F~Move on grid;
+F~Zoom ;
+F~Only allow single connections;
+F~Scrolling in CreateContext;
+F~Save load graph;
+~Create Context filters; 
+~remove Id when deleting;
+F~Reload IDs after loaded.
+~Save and Load buttons shortkeys;
+~load with arguments;
+
+cmd:
+C:/Users/Tim/Desktop/Processing/lbs/processing-3.5.4/processing-java --sketch=C:/Users/Tim/Desktop/Processing/prj/First --output=C:/Users/Tim/Desktop/Processing/prj/First/out --force --run
+
+export:
+C:/Users/Tim/Desktop/Processing/lbs/processing-3.5.4/processing-java --sketch=C:/Users/Tim/Desktop/Processing/prj/First --output=C:/Users/Tim/Desktop/Processing/prj/First/build --force --export

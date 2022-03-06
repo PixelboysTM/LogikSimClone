@@ -1,0 +1,37 @@
+{"nodes": [
+  {
+    "Ypos": 10,
+    "Xpos": 10,
+    "width": 150,
+    "type": "NODE",
+    "height": 200
+  },
+  {
+    "Ypos": 247,
+    "Xpos": 584,
+    "width": 150,
+    "type": "NODE",
+    "height": 200
+  },
+  {
+    "Ypos": 404,
+    "Xpos": 375,
+    "width": 125,
+    "type": "Pass Node",
+    "height": 100
+  },
+  {
+    "Ypos": 519,
+    "Xpos": 137,
+    "width": 150,
+    "type": "Basic Node",
+    "height": 200
+  },
+  {
+    "Ypos": 550,
+    "Xpos": 693,
+    "width": 50,
+    "type": "Start",
+    "height": 60
+  }
+]}

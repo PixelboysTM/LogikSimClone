@@ -1,0 +1,134 @@
+{"nodes": [
+  {
+    "Ypos": 10,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "lx": 25,
+        "type": 115,
+        "ly": 50
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 25,
+        "type": 98,
+        "ly": 70
+      }
+    ],
+    "OutputHandlePoints": [
+      {
+        "color": -1,
+        "lx": 145,
+        "type": 115,
+        "ly": 50
+      },
+      {
+        "color": -52636,
+        "lx": 145,
+        "type": 98,
+        "ly": 70
+      }
+    ],
+    "Xpos": 10,
+    "width": 150,
+    "type": "UNDEFINED",
+    "height": 200
+  },
+  {
+    "Ypos": 12,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "lx": 191,
+        "type": 115,
+        "ly": 52
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 191,
+        "type": 98,
+        "ly": 72
+      },
+      {
+        "connected": false,
+        "color": -13435036,
+        "lx": 191,
+        "type": 103,
+        "ly": 92
+      }
+    ],
+    "OutputHandlePoints": [
+      {
+        "color": -1,
+        "lx": 311,
+        "type": 115,
+        "ly": 52
+      },
+      {
+        "color": -13435036,
+        "lx": 311,
+        "type": 103,
+        "ly": 72
+      }
+    ],
+    "Xpos": 176,
+    "width": 150,
+    "type": "Basic_Node",
+    "height": 200
+  },
+  {
+    "Ypos": 14,
+    "InputHandlePoints": [
+      {
+        "connected": false,
+        "color": -1,
+        "lx": 356,
+        "type": 115,
+        "ly": 54
+      },
+      {
+        "connected": false,
+        "color": -52636,
+        "lx": 356,
+        "type": 98,
+        "ly": 74
+      }
+    ],
+    "OutputHandlePoints": [
+      {
+        "color": -1,
+        "lx": 451,
+        "type": 115,
+        "ly": 54
+      },
+      {
+        "color": -13435036,
+        "lx": 451,
+        "type": 103,
+        "ly": 74
+      }
+    ],
+    "Xpos": 341,
+    "width": 125,
+    "type": "Pass_Node",
+    "height": 100
+  },
+  {
+    "Ypos": 136,
+    "InputHandlePoints": [],
+    "OutputHandlePoints": [{
+      "color": -1,
+      "lx": 387,
+      "type": 115,
+      "ly": 176
+    }],
+    "Xpos": 352,
+    "width": 50,
+    "type": "Start_Node",
+    "height": 60
+  }
+]}

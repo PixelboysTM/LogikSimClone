@@ -1,0 +1,42 @@
+{"nodes": [{
+  "Ypos": 10,
+  "InputHandlePoints": [
+    {
+      "connected": false,
+      "color": -1,
+      "ID": 1757478656,
+      "lx": 25,
+      "type": 115,
+      "ly": 50
+    },
+    {
+      "connected": false,
+      "color": -52636,
+      "ID": 1249742464,
+      "lx": 25,
+      "type": 98,
+      "ly": 70
+    }
+  ],
+  "OutputHandlePoints": [
+    {
+      "color": -1,
+      "ID": 1503401984,
+      "lx": 145,
+      "type": 115,
+      "ly": 50
+    },
+    {
+      "color": -52636,
+      "ID": 63633928,
+      "lx": 145,
+      "type": 98,
+      "ly": 70
+    }
+  ],
+  "Xpos": 10,
+  "width": 150,
+  "ID": 2147483647,
+  "type": "UNDEFINED",
+  "height": 200
+}]}

@@ -1,0 +1,170 @@
+{
+  "offsetX": 0,
+  "offsetY": 0,
+  "nodes": [
+    {
+      "Ypos": 162,
+      "InputHandlePoints": [
+        {
+          "connected": false,
+          "color": -1,
+          "ID": 2095413120,
+          "lx": 105,
+          "type": 115,
+          "ly": 202
+        },
+        {
+          "connected": false,
+          "color": -52636,
+          "ID": 59497368,
+          "lx": 105,
+          "type": 98,
+          "ly": 222
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 1086962176,
+          "lx": 225,
+          "type": 115,
+          "ly": 202
+        },
+        {
+          "color": -52636,
+          "ID": 420194848,
+          "lx": 225,
+          "type": 98,
+          "ly": 222
+        }
+      ],
+      "Xpos": 90,
+      "width": 150,
+      "ID": 2147483647,
+      "type": "UNDEFINED",
+      "height": 200
+    },
+    {
+      "Ypos": 227,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 957196928,
+          "lx": 488,
+          "type": 115,
+          "ly": 267
+        },
+        {
+          "connected": false,
+          "color": -52636,
+          "ID": 279462336,
+          "lx": 488,
+          "type": 98,
+          "ly": 287
+        },
+        {
+          "connected": true,
+          "color": -13435036,
+          "ID": 207901008,
+          "lx": 488,
+          "type": 103,
+          "ly": 307
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 612652288,
+          "lx": 608,
+          "type": 115,
+          "ly": 267
+        },
+        {
+          "color": -13435036,
+          "ID": 635343808,
+          "lx": 608,
+          "type": 103,
+          "ly": 287
+        }
+      ],
+      "Xpos": 473,
+      "width": 150,
+      "ID": 1065784640,
+      "type": "Basic_Node",
+      "height": 200
+    },
+    {
+      "Ypos": 178,
+      "InputHandlePoints": [
+        {
+          "connected": true,
+          "color": -1,
+          "ID": 482982400,
+          "lx": 312,
+          "type": 115,
+          "ly": 218
+        },
+        {
+          "connected": true,
+          "color": -52636,
+          "ID": 254178064,
+          "lx": 312,
+          "type": 98,
+          "ly": 238
+        }
+      ],
+      "OutputHandlePoints": [
+        {
+          "color": -1,
+          "ID": 37652264,
+          "lx": 407,
+          "type": 115,
+          "ly": 218
+        },
+        {
+          "color": -13435036,
+          "ID": 1604717952,
+          "lx": 407,
+          "type": 103,
+          "ly": 238
+        }
+      ],
+      "Xpos": 297,
+      "width": 125,
+      "ID": 477105376,
+      "type": "Pass_Node",
+      "height": 100
+    }
+  ],
+  "zoom": 1,
+  "connections": [
+    {
+      "InputHID": 482982400,
+      "OutputID": 2147483647,
+      "InputID": 477105376,
+      "ID": 528717024,
+    },
+    {
+      "InputHID": 254178064,
+      "OutputID": 2147483647,
+      "InputID": 477105376,
+      "ID": 1664465664,
+      "OutputHID": 420194848
+    },
+    {
+      "InputHID": 957196928,
+      "OutputID": 477105376,
+      "InputID": 1065784640,
+      "ID": 1329112064,
+      "OutputHID": 37652264
+    },
+    {
+      "InputHID": 207901008,
+      "OutputID": 477105376,
+      "InputID": 1065784640,
+      "ID": 463342656,
+      "OutputHID": 1604717952
+    }
+  ]
+}
